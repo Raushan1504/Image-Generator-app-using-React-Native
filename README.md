@@ -23,16 +23,16 @@ A fast, cross-platform mobile application that turns your text prompts into stun
 **Home Screen**
 
 
-| <img width="1080" height="2176" alt="image" src="https://github.com/user-attachments/assets/49b70345-92c2-4a95-88a8-4a97947c87fa" /> |  
+ <img width="1080" height="2176" alt="image" src="https://github.com/user-attachments/assets/49b70345-92c2-4a95-88a8-4a97947c87fa" />  
 
 **Generator Image**
-|<img width="1078" height="2130" alt="image" src="https://github.com/user-attachments/assets/e48add16-08b6-43b9-9fdf-d4c375b86b69" /> |  
+<img width="1078" height="2130" alt="image" src="https://github.com/user-attachments/assets/e48add16-08b6-43b9-9fdf-d4c375b86b69" />  
 
 **Result**
-| <img width="540" height="1049" alt="image" src="https://github.com/user-attachments/assets/8a3ac20c-1dcf-4ef9-8f35-9b1533b5508b" /> |
+<img width="540" height="1049" alt="image" src="https://github.com/user-attachments/assets/8a3ac20c-1dcf-4ef9-8f35-9b1533b5508b" /> 
 
 **Another Result**
-| <img width="540" height="1034" alt="image" src="https://github.com/user-attachments/assets/e8265e03-0e67-4df2-bcf9-7a94d26b39c6" /> | 
+<img width="540" height="1034" alt="image" src="https://github.com/user-attachments/assets/e8265e03-0e67-4df2-bcf9-7a94d26b39c6" /> 
 
 
 
@@ -50,13 +50,13 @@ Follow these steps to run the app locally on your machine.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Image-Generator-app-using-React-Native.git
-   cd Image-Generator-app-using-React-Native
+     git clone https://github.com/yourusername/Image-Generator-app-using-React-Native.git
+     cd Image-Generator-app-using-React-Native
    ```
 2 **Install dependencies**
   ```bash
     npm install
-```
+ ```
 3 **Start the Expo server**
   ```bash
     npx expo start
