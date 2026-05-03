@@ -22,7 +22,7 @@ A fast, cross-platform mobile application that turns your text prompts into stun
 ## 📸 Screenshots
 **Home Screen**
 
-
+<p align="center">
  <img width="1080" height="2176" alt="image" src="https://github.com/user-attachments/assets/49b70345-92c2-4a95-88a8-4a97947c87fa" />  
 
 **Generator Image**
@@ -33,7 +33,7 @@ A fast, cross-platform mobile application that turns your text prompts into stun
 
 **Another Result**
 <img width="540" height="1034" alt="image" src="https://github.com/user-attachments/assets/e8265e03-0e67-4df2-bcf9-7a94d26b39c6" /> 
-
+</p>
 
 
 ## 🚀 Getting Started
